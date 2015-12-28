@@ -1,0 +1,21 @@
+"*":
+  editor:
+    invisibles: {}
+    fontSize: 12
+    showInvisibles: true
+    showIndentGuide: true
+  core:
+    disabledPackages: [
+      "metrics"
+      "wrap-guide"
+      "exception-reporting"
+    ]
+  welcome:
+    showOnStartup: false
+  whitespace:
+    removeTrailingWhitespace: true
+    ignoreWhitespaceOnCurrentLine: false
+  "atom-beautify":
+    analytics: false
+  "one-dark-ui": {}
+  minimap: {}
