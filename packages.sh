@@ -5,6 +5,7 @@ apm install copy-path
 apm install editorconfig
 apm install emmet
 apm install file-icons
+apm install highlight-selected
 apm install language-babel
 apm install language-docker
 apm install language-latex

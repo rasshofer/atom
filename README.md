@@ -18,6 +18,8 @@ I never got used to using `Shift` + `Tab` to outdent editor contents and – bac
 
 ## Changelog
 
+* 0.0.2
+	* Add `highlight-selected` package
 * 0.0.1
 	* Initial version
 
