@@ -1,21 +1,27 @@
 "*":
-  editor:
-    invisibles: {}
-    fontSize: 12
-    showInvisibles: true
-    showIndentGuide: true
+  "atom-beautify":
+    general:
+      _analyticsUserId: "63ae4c03-1ec4-4183-b953-41fa504e53c3"
+      analytics: false
   core:
+    allowPendingPaneItems: false
     disabledPackages: [
       "metrics"
       "wrap-guide"
       "exception-reporting"
     ]
+    telemetryConsent: "no"
+    useCustomTitleBar: true
+  editor:
+    fontSize: 12
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  "file-icons": {}
+  minimap: {}
+  "one-dark-ui": {}
   welcome:
     showOnStartup: false
   whitespace:
-    removeTrailingWhitespace: true
     ignoreWhitespaceOnCurrentLine: false
-  "atom-beautify":
-    analytics: false
-  "one-dark-ui": {}
-  minimap: {}
+    removeTrailingWhitespace: true
