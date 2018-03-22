@@ -11,9 +11,9 @@
       "exception-reporting"
     ]
     telemetryConsent: "no"
-    useCustomTitleBar: true
+    titleBar: "custom"
   editor:
-    fontSize: 12
+    fontSize: 11
     invisibles: {}
     showIndentGuide: true
     showInvisibles: true
