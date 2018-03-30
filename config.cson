@@ -3,6 +3,7 @@
     general:
       _analyticsUserId: "63ae4c03-1ec4-4183-b953-41fa504e53c3"
       analytics: false
+      beautifyEntireFileOnSave: false
   core:
     allowPendingPaneItems: false
     disabledPackages: [
@@ -18,10 +19,27 @@
     showIndentGuide: true
     showInvisibles: true
   "file-icons": {}
+  "git-plus":
+    general:
+      _analyticsUserId: "7bdc543b-e460-4ae2-983d-f2489a33cf3e"
+      analytics: false
+  "linter-ui-default":
+    panelHeight: 99
+    showPanel: true
   minimap: {}
   "one-dark-ui": {}
+  "split-diff":
+    diffWords: true
+    ignoreWhitespace: true
+    leftEditorColor: "red"
+    rightEditorColor: "green"
+    syncHorizontalScroll: true
   welcome:
     showOnStartup: false
   whitespace:
     ignoreWhitespaceOnCurrentLine: false
     removeTrailingWhitespace: true
+".editorconfig.source":
+  editor:
+    autoIndent: true
+    autoIndentOnPaste: true
